@@ -1,4 +1,4 @@
-<h1 align="center"><b><b>❤️ Natsuki ❤️</b></b></h1>
+<h1 align="center"><b><b> Natsuki </b></b></h1>
 
 ##  Fixed I'm [Natsuki](https://t.me/TheNatsukibot) 
  
