@@ -63,39 +63,39 @@ from Natsuki.modules.helper_funcs.misc import paginate_modules
 from Natsuki.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 Hey There, My Name is 𝗡𝗮𝘁𝘀𝘂𝗸𝗶. 
+Hey There, My Name is 𝐓𝐡𝐮𝐧𝐝𝐞𝐫 𝐆𝐨𝐇𝐞𝐥𝐩. 
 I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Natsuki News 🙋‍♂️", url="https://t.me/Natsuki_Updates"
+            text="GoHelp Updates ‍♂️", url="https://t.me/thundergohelpupdates"
         ),
         InlineKeyboardButton(
-            text="Support Group 💬", url="https://t.me/NatsukiSupport_Official"
-        ),
-    ],
-    [
-        InlineKeyboardButton(
-            text="Source 🗒", url="Github.com/Sadew451"
-        ),
-        InlineKeyboardButton(
-            text="Command Help ❓", callback_data="help_back"
+            text="Support Group 💬", url="https://t.me/thundergotechnologysupport"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add To Me Your Group ➕",
-            url="t.me/TheNatsukiBot?startgroup=true",
+            text="Source ", url="https://telegra.ph/Thunder-GoHelp-11-19"
+        ),
+        InlineKeyboardButton(
+            text="Help & Commands", callback_data="help_back"
+        ),
+    ],
+    [
+        InlineKeyboardButton(
+            text="➕ Add Me To Your Group ➕",
+            url="t.me/thundergohelpbot?startgroup=true",
         ),
     ],
 ]
 
-NATSUKI_IMG = "https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg"
+THUNDERGOHELP_IMG = "https://telegra.ph/file/166d6f00c76d77154e994.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/166d6f00c76d77154e994.jpg)
 
 /start: Starts me! You've probably already used this.
 /help: Click this, I'll let you know about myself!
@@ -109,9 +109,8 @@ HELP_STRINGS = f"""
 )
 
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-You can donate to the original writer's of the Base code,
-Support them  [SADEW JAYASEKARA](t.me/Itz_Sadew)"""
+DONATE_STRING = """Heya, We Don't need any Donations Now 
+If you need any help Contact [Thunder Team](t.me/thunderteammax)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
