@@ -70,7 +70,7 @@ I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your
 buttons = [
     [
         InlineKeyboardButton(
-            text="GoHelp Updates ‍♂️", url="https://t.me/thundergohelpupdates"
+            text="GoHelp Updates", url="https://t.me/thundergohelpupdates"
         ),
         InlineKeyboardButton(
             text="Support Group 💬", url="https://t.me/thundergotechnologysupport"
